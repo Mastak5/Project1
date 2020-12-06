@@ -1,6 +1,5 @@
 line from user2
 2 line from user2
 good night (master)
-||||||| 6ccc2d9
 2 line from user2
 
