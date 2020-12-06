@@ -3,3 +3,7 @@ line from user2
 good night (master)
 2 line from user2
 
+line from user1
+
+
+
